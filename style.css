@@ -28,6 +28,13 @@ body {
     
 }
 
+.top:hover{
+    
+    color: white;
+  font-weight: bolder;
+ 
+}
+
 /*DESCRIPTION*/
 
 .description {
@@ -157,6 +164,7 @@ body {
     justify-content: center;
     padding: 60px 20px;
     background-color: white;
+    margin: -8px;
 }
 
 .cta-container{
